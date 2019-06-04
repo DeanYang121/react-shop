@@ -1,0 +1,1 @@
+from gcr.io/istio-release/install-cni@sha256:b2702b6307ff69ad5c452ee688a6ec0038e72bacc85bb0c875faa4d7fe16b34b
